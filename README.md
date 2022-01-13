@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spyketdog also known as Francois :)
-- 👀 I’m interested in ... Webdev, SEO and high qaulity content creation.
-- 🌱 I’m currently learning ...WebDev front end and backend optimized for mobile use.
+- 👀 I’m interested in ... Web Dev, Mobile Dev and Cyber Security.
+- 🌱 I’m currently learning ...Full Stack Development. HTML, CSS, Javascript, PHP and SQL.
 - 💞️ I’m looking to collaborate on ...nothing at this momenent - well if you want to - contact me :)
 - 📫 How to reach me ...info@franklyjust.com
 
