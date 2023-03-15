@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @spyketdog also known as Francois :)
 - 👀 I’m interested in ... Web Development, Mobile Development and Cyber Security.
-- 🌱 I’m currently learning ...Full Stack Development. HTML, CSS, Javascript, PHP and SQL.
-- 💞️ I’m looking to collaborate on ...nothing at this momenent - well if you want to - contact me :)
+- 🌱 I’m currently learning ...Dart and Flutter for mobile development.
 - 📫 How to reach me ... fpruis@fastmail.com
 
 <!---
